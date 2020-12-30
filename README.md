@@ -1,5 +1,5 @@
 # TradersAintDoingShit (TADS)
-## Description
+### Description
 Removes Trader Protection for 7 Days to die A19.3+
 
 # Downlaod Instructions:
@@ -12,7 +12,7 @@ or
 - Download 7-zip: bit.ly/2L3rUfU
 
 ***IMPORTANT***
-## Keep in mind "PRE-RELEASE" can have bug or may not work correctly! 
+### Keep in mind "PRE-RELEASE" can have bug or may not work correctly! 
 
 # Instal Instructions:
 - open "TradersAintDoingShit (TADS)"
@@ -21,4 +21,28 @@ or
 - open "7 Days to die ROOT" -> "Data" -> "Prefabs"
 - drag and drop all files from "Put inside in PREFFABS" into "Prefabs"
 ***IMPORTANT***
-## REPLACE ALL FILES!!
+### REPLACE ALL FILES!!
+
+
+# Changelog:
+### V1.0 initial Release
+### Description:
+this is a initial release for TraderAintDoingShit (TADS).
+
+#### Changed:
+- changed the readme.md
+
+---
+#### Added:
+- added the modded files to repo
+
+---
+#### Fixed:
+- NONE
+
+---
+#### Deleted:
+- NONE
+
+---
+

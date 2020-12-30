@@ -8,7 +8,9 @@ Removes Trader Protection for 7 Days to die A19.3+
 
 # Download Tools:
 - Download Winrar: https://bit.ly/3aOoYyu
+
 or
+
 - Download 7-zip: https://bit.ly/2L3rUfU
 
 ***IMPORTANT***

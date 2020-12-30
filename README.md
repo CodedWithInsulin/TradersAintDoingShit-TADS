@@ -7,9 +7,9 @@ Removes Trader Protection for 7 Days to die A19.3+
 - Download the Latest "Release" or if you want "Pre-Release"
 
 # Download Tools:
-- Download Winrar: bit.ly/3aOoYyu
+- Download Winrar: https://bit.ly/3aOoYyu
 or
-- Download 7-zip: bit.ly/2L3rUfU
+- Download 7-zip: https://bit.ly/2L3rUfU
 
 ***IMPORTANT***
 ### Keep in mind "PRE-RELEASE" can have bug or may not work correctly! 
